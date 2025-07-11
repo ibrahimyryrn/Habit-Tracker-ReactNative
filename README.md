@@ -14,10 +14,6 @@
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
   </div>
   <h3 align="center">Build a Habit Tracker App with React Native, Appwrite, and TailwindCSS</h3>
-  <div align="center">
-    Follow the full video tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
-  </div>
   <br />
 </div>
 
@@ -35,8 +31,6 @@
 ## 🚀 Introduction
 
 In this tutorial, you'll learn how to build a modern **Habit Tracker** app using **React Native**, **Appwrite**, **Expo**, and **TailwindCSS**. This app allows users to track their daily habits, view streaks, and manage habit completions with a sleek UI. 
-
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
 
 ---
 
